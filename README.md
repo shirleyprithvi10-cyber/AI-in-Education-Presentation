@@ -1,23 +1,37 @@
 # AI-in-Education-Presentation
+
 Application of AI in Education
+
 ABSTRACT
+
 The rapid advancement of Artificial Intelligence in Education (AIEd) has transitioned from science fiction to a central component of modern pedagogical infrastructure. This report synthesises current research to explore how AI is revolutionising learning, instruction, and administration. AI in this context refers to machines capable of mimicking human cognitive functions, such as learning, problem-solving, and adaptability. The core promise of AIEd lies in personalised learning, which allows educational content to adapt to the unique pace and needs of individual students. Key technologies include Intelligent Tutoring Systems (ITS), which provide immediate feedback, and Generative AI, such as ChatGPT, which enables human-like dialogue for instructional support.
 However, the "black box" of AI presents significant technical and ethical challenges. Issues of algorithmic bias, data privacy, and the potential for diminished human interaction remain critical concerns for stakeholders. Furthermore, while developed nations like the USA and China lead in AI investments, there are growing risks of an "equity gap" if access to these technologies is not democratised. Future trends point towards the integration of neuroscience, swarm intelligence, and the Internet of Things (IoT) to create even more immersive and effective learning environments. Ultimately, AI is viewed not as a replacement for teachers, but as a powerful tool to empower them, shifting their role from primary knowledge providers to facilitators of deeper learning.
+
 CHAPTER 1: INTRODUCTION
+
 Definition and Scope of AI in Education
+
 Artificial Intelligence (AI) is traditionally defined as the science of making machines perform tasks that would require intelligence if done by humans, such as perception, reasoning, and learning. In the educational sector, AIEd (Artificial Intelligence in Education) has become a multidisciplinary field absorbing ideas from computer science, cognitive science, neurology, and philosophy. It encompasses a wide array of methods, including machine learning (ML), which uses historical data to learn latent rules for future decision-making, and rule-based systems, which manipulate data according to pre-defined logical propositions.
+
 Historical Context and Evolution
+
 The intersection of AI and education dates back several decades, but the current wave, often associated with Industry 4.0, marks a radical shift. In the mid-20th century, instruction was entirely mechanical, relying solely on human effort. The 1970s saw the introduction of microcomputers, leading to Computer Aided Instruction (CAI). Today, the field has transitioned from basic desktop applications to embedded computer systems, humanoid robots, and web-based chatbots that can perform instructional duties independently or alongside teachers.
 The "Black Box" and Machine Learning Paradigms
 Understanding AIEd requires demystifying the "Black Box"—the complex internal workings of modern algorithms. There are three primary paradigms of Machine Learning:
 • Supervised Learning: The machine is trained on historical data with known targets, such as predicting a student's final GPA based on demographic and attendance records.
 • Unsupervised Learning: The machine performs statistical pattern recognition without pre-set labels, often used for clustering students into typologies to help design targeted supports.
 • Reinforcement Learning: The system learns through a system of rewards and penalties, often used in Intelligent Tutoring Systems to decide the next best question to ask a student based on their previous answers.
+
 The Role of Generative AI
+
 The introduction of Generative AI, particularly Large Language Models (LLMs) like ChatGPT, represents a "giant leap" forward. Unlike traditional AI that simply retrieves data, generative AI produces original content, knowledge, and analysis through human-like dialogue. These systems use self-supervised learning on vast datasets to develop a statistical understanding of language, enabling them to write articles, debug code, and provide empathetic feedback.
+
 Strategic Importance and Financial Trends
+
 AI has become a focus of international competition, with the market for AI in education expected to grow significantly. The USA currently leads in the share of educational institutions using robots (26%), followed by Japan and the UK. In 2018 alone, US companies collected over $1.78 billion in global investments for AI-based learning, while China and India are rapidly increasing their stakes. This financial growth is driven by the belief that AI can mitigate social drawbacks by increasing knowledge accessibility and the quality of the educational process.
+
 CHAPTER 2: LITERATURE REVIEW
+
 This chapter provides a comprehensive review of the ten primary sources identified in the research, focusing on their unique contributions to the field of Artificial Intelligence in Education (AIEd). Each entry includes the paper title, author name, year of publish, publisher, and a detailed summary of its findings and methodologies.
 1. Unpacking the “Black Box” of AI in Education
 • Authors: Nabeel Gillani, Rebecca Eynon, Catherine Chiabaut, and Kelsey Finkel.
@@ -71,6 +85,7 @@ This chapter provides a comprehensive review of the ten primary sources identifi
 • Summary: This study explores the economic and financial dimensions of the AI market in education. It identifies the USA as the global leader, with 26% of its educational institutions using robots. In 2018, global investments in AI learning companies reached 51,000) and Milo ($10,000), the latter used to assist children with autism. The authors conclude that AI can mitigate social drawbacks by increasing knowledge accessibility and is a vital vector for national economic growth. They also advocate for open-source AI tools to prevent market dominance by a few "first movers".
 
 CHAPTER 3: DIFFERENT TYPES OF APPLICATIONS
+
 The application of AI in education is vast, ranging from backend administrative tasks to front-end student-facing interactions.
 1. Instructor Workload Decrement and Teaching Support
 Recent research has prioritised tools that empower teachers by reducing their non-instructional burden.
