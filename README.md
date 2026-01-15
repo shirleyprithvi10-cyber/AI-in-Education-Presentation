@@ -98,7 +98,9 @@ Specialised platforms use AI to address specific subject-matter challenges.
 • Automated STEM Checks: Programs like ALEKS use AI to predict which topics a student is likely to forget, specifically timing "progress checks" to maximise long-term learning gain.
 • Language Learning Tutors: Start-ups such as Liulishuo use advanced AI to teach English to millions of students, adapting to their proficiency level and learning style in real-time.
 • Intelligent Question-Answering (Q&A): Systems based on knowledge graphs can quickly answer high-school student questions while simultaneously connecting those questions to related knowledge points for deeper understanding.
-CONCLUSION 
+
+CONCLUSION
+
 Summary of Findings
 The current state of AIEd is one of high promise and significant challenge. AI has successfully permeated administration, instruction, and learning, offering unprecedented opportunities for personalisation and efficiency. However, the field must move beyond "AI theatre" to focus on the actual computational limits and social impacts of these technologies.
 Future Research Trends
@@ -108,7 +110,9 @@ Several emerging areas are set to define the next generation of AIEd:
 • Internet of Things (IoT): Wearable computing devices and sensors could be used to sense and understand human cognitive behaviours in physical contexts, such as science labs.
 The Human-Centred Future
 Crucially, the goal of AI should not be to replace human stakeholders but to empower them. Human interaction remains vital for providing emotional support, motivation, and the teaching of "soft skills" like leadership and critical thinking, which AI currently struggles to replicate. For AIEd to truly improve the human condition, it must be developed with transparency, fairness, and inclusion at its core, involving educators in every step of the design and implementation process.
+
 REFERENCES
+
 • Gillani, N., et al. (2023). Unpacking the “Black Box” of AI in Education. Educational Technology & Society.
 • Osetskyi, V., et al. (2020). Artificial Intelligence Application in Education: Financial Implications and Prospects. Taras Shevchenko National University of Kyiv.
 • Ojha, S., et al. From Robots to Books: An Introduction to Smart Applications of AI in Education (AIEd). Odisha University of Technology and Research.
